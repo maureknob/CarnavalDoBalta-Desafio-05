@@ -1,0 +1,15 @@
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\bin\Debug\net6.0\NumberInWords.exe
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\bin\Debug\net6.0\NumberInWords.deps.json
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\bin\Debug\net6.0\NumberInWords.runtimeconfig.json
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\bin\Debug\net6.0\NumberInWords.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\bin\Debug\net6.0\NumberInWords.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.csproj.AssemblyReference.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.AssemblyInfoInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.AssemblyInfo.cs
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.csproj.CoreCompileInputs.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\refint\NumberInWords.dll
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.pdb
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\NumberInWords.genruntimeconfig.cache
+C:\Users\DELTA\source\repos\CarnavalBalta\NumberInWords\obj\Debug\net6.0\ref\NumberInWords.dll
