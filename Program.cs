@@ -4,12 +4,11 @@ string[] dozens = new string[] { String.Empty, "dez", "vinte", "trinta", "quaren
 string[] hundreds = new string[] { String.Empty, "cento", "duzentos", "trezentos", "quatrocentos", "quinhentos", "seiscentos", "setecentos", "oitocentos", "novecentos" };
 string[] thousands = new string[] { String.Empty, "mil", "dois mil", "três mil", "quatro mil", "cinco mil", "seis mil", "sete mil", "oito mil", "nove mil" };
 
-// Console.Clear();
-// Console.Write("Digite um valor: ");
+Console.Clear();
+Console.Write("Digite um valor: ");
 
-// double.TryParse(Console.ReadLine(), out double value);
+double.TryParse(Console.ReadLine(), out double value);
 
-double value = 19.35;
 
 void PrintValue(string value)
 {
